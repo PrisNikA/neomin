@@ -7,6 +7,7 @@ require("plugins.lazy")
 require("keys.plugins")
 
 -- Плагины
+require("plugins.ibl")
 require("plugins.lualine")
 require("plugins.neotree")
 require("plugins.onedark")
